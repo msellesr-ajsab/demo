@@ -1,0 +1,14 @@
+{
+  "posts": [
+    { "id": 1, "title": "Post 1XX" },
+    { "id": 2, "title": "Post 2XX" },
+    { "id": 3, "title": "Post 3XX" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some commentXX", "postId": 1 },
+    { "id": 2, "body": "some commentXX", "postId": 1 }
+  ],
+  "profile": {
+    "name": "typicodeXX"
+  }
+}
