@@ -5,8 +5,8 @@
     { "id": 3, "title": "Post 3MS" }
   ],
   "comments": [
-    { "id": 1, "body": "some comment", "postIdMS": 1 },
-    { "id": 2, "body": "some comment", "postIdMS": 1 }
+    { "id": 1, "body": "some commentMS", "postIdMS": 1 },
+    { "id": 2, "body": "some commentMS", "postIdMS": 1 }
   ],
   "profile": {
     "name": "typicodeMS"
