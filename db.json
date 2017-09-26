@@ -1,9 +1,9 @@
 {
-  "posts": [
+  "posts": 
     { "id": 1, "title": "Post 1MS" }
-  ],
-  "comments": [
+  ,
+  "comments": 
     { "id": 1, "body": "some commentMS", "postId": 1 }
-  ],
+  ,
   "profile": "typicodeMS"
 }
